@@ -18,7 +18,7 @@ h1{
     flex-wrap: wrap;
     justify-content: space-around;
     background-color: black;
-    background-image: url(../../../Images/car.png);
+    background-image: url(./car.jpg);
     background-size: 100% 100%;
 }
 
